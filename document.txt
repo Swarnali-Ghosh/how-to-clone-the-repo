@@ -1,0 +1,4 @@
+Clone the repo: git clone https://github.com/coreui/coreui-free-react-admin-template.git
+cd coreui-free-react-admin-template
+npm install or yarn install
+npm run start
